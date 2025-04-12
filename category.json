@@ -1,0 +1,19 @@
+{
+  "category": [
+    {
+      "category_id": "1",
+      "image_name": "avatar4.png",
+      "category_name": "Cateogory One"
+    },
+    {
+      "category_id": "2",
+      "image_name": "avatar4.png",
+      "category_name": "Cateogory Two"
+    },
+    {
+      "category_id": "3",
+      "image_name": "avatar4.png",
+      "category_name": "Cateogory Three"
+    }
+  ]
+}
